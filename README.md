@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://komarev.com/ghpvc/?username=acheddir&style=flat-square&color=blue" alt=""/>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=acheddir&count_private=true&theme=default&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acheddir&layout=compact&langs_count=5&theme=default)](https://github.com/anuraghazra/github-readme-stats)
