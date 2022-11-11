@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-Thanks for stopping by
-
-<!--
-**acheddir/acheddir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Thanks for stopping by ❤️
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,6 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+<!--
+**acheddir/acheddir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=acheddir&theme=light&background=ffffff)](https://git.io/streak-stats)
