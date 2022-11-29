@@ -2,7 +2,7 @@
 
 Thanks for stopping by ❤️
 
-- 🔭 I’m currently working on [my blog](https://blog.arctech.me)
+- 🔭 I’m currently working on [my blog](https://blog.acheddir.me)
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
