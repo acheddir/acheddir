@@ -7,9 +7,6 @@ Thanks for stopping by ❤️
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Microsoft [.NET](https://dotnet.microsoft.com/en-us/) and [Azure](https://azure.microsoft.com/en-us/), I almost work with these in my day to day job.
 - 📫 How to reach me: [acheddir@outlook.fr](mailto://acheddir@outlook.fr)
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **acheddir/acheddir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
